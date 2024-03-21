@@ -2,3 +2,5 @@ limonata tarifi..
 1seker
 2.su
 3.nane
+4.buz 
+5.cilek
